@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FnaN1FiEs6Gt72UjCugf9KqA4bx34svREL9R95hhY6GU",
+      "symbol": "YGOAT",
+      "name": "YOLOCHAIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Yolochain/yolochain/main/goat.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
@@ -184623,3 +184634,4 @@
     "patch": 3
   }
 }
+
